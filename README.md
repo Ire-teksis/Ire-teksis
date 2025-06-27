@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ireoluwa
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Tech+Newbie+%7C+Future+Developer;HTML+%26+CSS+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
@@ -51,11 +51,11 @@ I'm a passionate **tech newbie** taking my first steps into the amazing world of
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ire-teksis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ire-teksis&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎨 Featured Projects
@@ -79,7 +79,7 @@ I believe the best way to learn is by connecting with other developers! Whether 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireoluwa-adebimpe-7b544b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
 
@@ -89,16 +89,16 @@ I believe the best way to learn is by connecting with other developers! Whether 
 
 - 🎵 I code better with music on
 - ☕ Fueled by coffee and curiosity
-- 🎮 When not coding, you'll find me gaming or reading tech blogs
+- 🎮 When not coding, you'll find me reading or watching movies
 - 🌍 Believer in the power of technology to change the world
 - 📈 Tracking my progress one commit at a time
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ire-teksis&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i>⭐ From [yourusername](https://github.com/yourusername) - "Every expert was once a beginner!"</i>
+  <i>⭐ From Ire-teksis (https://github.com/Ire-teksis) - "Every expert was once a beginner!"</i>
 </div>
